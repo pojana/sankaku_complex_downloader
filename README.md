@@ -32,13 +32,16 @@ Example : https://beta.sankakucomplex.com/wiki/en?tagName=oxxo
   
   [txt_path]
       -> txt can contain multiple tags (split /n)
+      
       Example: https://beta.sankakucomplex.com/wiki/en?tagName=oxxo
+      
                 -> oxxo
       
       -> py down_complex_APIv3 ./tag_list.txt         
        
       
   [tag_name]
+  
       ->https://beta.sankakucomplex.com/wiki/en?tagName=oxxo
                 -> oxxo
            
