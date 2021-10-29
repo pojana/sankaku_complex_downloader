@@ -28,7 +28,7 @@ Example : https://beta.sankakucomplex.com/wiki/en?tagName=oxxo
   
 # how to use
  
-  py down_complex_APIv3 [tag_name] or [txt_path]
+    py down_complex_APIv3 [tag_name] or [txt_path]
   
   [txt_path]
       -> txt can contain multiple tags (split /n)
