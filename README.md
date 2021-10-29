@@ -31,7 +31,7 @@ Example : https://beta.sankakucomplex.com/wiki/en?tagName=oxxo
     py down_complex_APIv3 [tag_name] or [txt_path]
   
   [txt_path]
-      -> txt can contain multiple tags (split /n)
+      -> txt can contain multiple tags (each tags split new line)
       
       Example: https://beta.sankakucomplex.com/wiki/en?tagName=oxxo
       
