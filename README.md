@@ -3,7 +3,7 @@ download sankaku_beta images from tag information
 
 
 # description
-download images from https://beta.sankakucomplex.com/
+download [images, movie and books] from https://beta.sankakucomplex.com/
 
 Example : https://beta.sankakucomplex.com/wiki/en?tagName=oxxo
 
